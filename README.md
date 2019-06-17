@@ -13,7 +13,7 @@ ex. GOPATH="/Users/polerbear/go"
 ■Workspace setup
 Go path配下に公式が定めている(?)workspaceの構造のdirectory構造を作成。
 
-polerbear/go
+my_mac_user_name/go
   - bin
   - src
     - github.com
